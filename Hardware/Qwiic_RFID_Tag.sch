@@ -12627,14 +12627,14 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="FD3" library="SparkFun-Aesthetics" deviceset="FIDUCIAL" device="1X2"/>
 <part name="FD4" library="SparkFun-Aesthetics" deviceset="FIDUCIAL" device="1X2"/>
 <part name="LOGO1" library="SparkFun-Aesthetics" deviceset="OSHW-LOGO" device="MINI" value="OSHW-LOGOMINI"/>
-<part name="LOGO2" library="SparkFun-Aesthetics" deviceset="QWIIC_LOGO" device="_4MM" value="QWIIC_LOGO_4MM"/>
-<part name="LOGO3" library="SparkFun-Aesthetics" deviceset="QWIIC_LOGO" device="_4MM" value="QWIIC_LOGO_4MM"/>
+<part name="LOGO3" library="SparkFun-Aesthetics" deviceset="QWIIC_LOGO" device="_7MM" value="QWIIC_LOGO_7MM"/>
 <part name="H1" library="SparkFun-Hardware" deviceset="STAND-OFF" device=""/>
 <part name="H2" library="SparkFun-Hardware" deviceset="STAND-OFF" device=""/>
 <part name="H3" library="SparkFun-Hardware" deviceset="STAND-OFF" device=""/>
 <part name="H4" library="SparkFun-Hardware" deviceset="STAND-OFF" device=""/>
 <part name="U$1" library="SparkX" deviceset="SPARKX-LOGO" device="5"/>
 <part name="U$2" library="SparkX" deviceset="SPARKX-LOGO" device="5"/>
+<part name="LOGO2" library="SparkFun-Aesthetics" deviceset="QWIIC_LOGO" device="_7MM" value="QWIIC_LOGO_7MM"/>
 </parts>
 <sheets>
 <sheet>
@@ -12781,14 +12781,14 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <instance part="FD3" gate="G$1" x="231.14" y="30.48" smashed="yes"/>
 <instance part="FD4" gate="G$1" x="233.68" y="30.48" smashed="yes"/>
 <instance part="LOGO1" gate="G$1" x="83.82" y="25.4" smashed="yes"/>
-<instance part="LOGO2" gate="G$1" x="116.84" y="17.78" smashed="yes"/>
-<instance part="LOGO3" gate="G$1" x="116.84" y="17.78" smashed="yes"/>
+<instance part="LOGO3" gate="G$1" x="116.84" y="20.32" smashed="yes"/>
 <instance part="H1" gate="G$1" x="238.76" y="27.94" smashed="yes"/>
 <instance part="H2" gate="G$1" x="241.3" y="27.94" smashed="yes"/>
 <instance part="H3" gate="G$1" x="238.76" y="30.48" smashed="yes"/>
 <instance part="H4" gate="G$1" x="241.3" y="30.48" smashed="yes"/>
 <instance part="U$1" gate="G$1" x="116.84" y="27.94" smashed="yes"/>
 <instance part="U$2" gate="G$1" x="116.84" y="27.94" smashed="yes"/>
+<instance part="LOGO2" gate="G$1" x="116.84" y="20.32" smashed="yes"/>
 </instances>
 <busses>
 </busses>
