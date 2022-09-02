@@ -30,7 +30,7 @@ Do you want to be able to write WiFi credentials (SSID and Password) into tag me
 
 Do you want to be able to manufacture and test your product and then program it with keys or other credentials just before you ship? We've got you covered.
 
-Are you developing equipment or appliances from the home? Would you like to store diagnostic information so that the repair engineer can access it using their smart phone? Our library lets you do that! Would you like the customer to be able to read the diagnostics with _their_ smart phone and then email them to you? Our library will let you do that too! (Apart from the email bit - obvs.. You will need to add that bit yourself.)
+Are you developing equipment or appliances for the home? Would you like to store diagnostic information so that the repair engineer can access it using their smart phone? Our library lets you do that! Would you like the customer to be able to read the diagnostics with _their_ smart phone and then email them to you? Our library will let you do that too! (Apart from the email bit - obvs.. You will need to add that bit yourself.)
 
 Are you designing a poster for your project? Do you want to be able to program your tag using Arduino and then stick it to your poster so people can interact with it? Hey, we've got you covered there too!
 
